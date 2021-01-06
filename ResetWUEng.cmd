@@ -1,8 +1,8 @@
 :: ==================================================================================
 :: NAME:	Reset Windows Update Tool.
 :: DESCRIPTION:	This script reset the Windows Update Components.
-:: AUTHOR:	Manuel Gil.
-:: VERSION:	10.5.4.1 - Date: 11/02/2020
+:: AUTHOR:	Shikhar Bhardwaj.
+:: VERSION:	10.5.4.1 - Date: 06/01/2021
 :: ==================================================================================
 
 
